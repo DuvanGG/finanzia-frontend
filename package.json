@@ -10,7 +10,7 @@
     "serve:ssr:finanzia-frontend": "node dist/finanzia-frontend/server/server.mjs"
   },
   "private": true,
-  "packageManager": "pnpm@11.17.0",
+  "packageManager": "pnpm@12.4.2",
   "dependencies": {
     "@angular/common": "^22.1.0",
     "@angular/compiler": "^22.1.0",
